@@ -1,7 +1,17 @@
-Esta es mi historia en git.
 
-Tengo 26 años.
+Este es otro documento que se parece al anterior
+pero solo demuestra como volvimos en un punto de la historia
+y posteriormente creamos otro commit con los cambios solo en un archivo
+o conjunto de estos.
 
-Hablaremos de mi vida.
+El commit anterior: 55ccaf97ed6784889bd2abd448ffae36b4f4d666
+tenia esto escrito en su archivo historia.txt:
+    "Esta es mi historia en git.
 
-Su vida y obra maestra
+    Tengo 26 años.
+
+    Hablaremos de mi vida.
+
+    Su vida y obra maestra"
+
+Volvimos como en Volver al Futuro :3

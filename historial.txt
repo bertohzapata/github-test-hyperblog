@@ -1,1 +1,3 @@
-Esta es mi historia en git
+Esta es mi historia en git.
+
+Tengo 16 años.

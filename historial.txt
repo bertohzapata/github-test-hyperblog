@@ -19,12 +19,8 @@ Volvimos como en Volver al Futuro :3
 
 Main 1
 
-<<<<<<< HEAD
-Main 2
-=======
 Experimento 2
 
 Experi
 
 Main 1
->>>>>>> 7fb3cea (Exp 2)
